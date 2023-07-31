@@ -500,6 +500,8 @@ Bien, ahora se utilizará ***curl*** para bajar los [datos genomicos del pingüi
 
     % curl -OJX GET "https://api.ncbi.nlm.nih.gov/datasets/v2alpha/genome/accession/GCF_000699145.1/download?include_annotation_type=GENOME_GFF,RNA_FASTA,CDS_FASTA,PROT_FASTA,SEQUENCE_REPORT&filename=GCF_000699145.1.zip" -H "Accept: application/zip"
 
+    # guardaron la informacion en un URL mas corto que es https://tinyurl.com/tutorialbioinfo
+
 
 ## Descomprimir archivos con ***unzip***
 
