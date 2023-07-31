@@ -28,6 +28,11 @@ Generalmente cuando ingresamos por primera vez a la terminal, el sistema nos red
 cd Documentos
 ```
 
+```
+cd ../..
+# es para subir a directorios parentales desde un subdirectorio
+```
+
 Ahora verifiquemos que nos cambiamos de directorio con pwd.
 
 ```
@@ -66,7 +71,8 @@ Ahora que tenemos creado un directorio llamado *Genobiostoic* construyamos esta 
 
 **Figura 1.** Jerarquía de directorios
 
->Trabajemos en base a esta figura el concepto de ruta absoluta y relativa. La ruta *relativa* para acceder, por ejemplo, al directorio "Practica1" desde el directorio "Genobiostoic", será /Terminal/Practica1, mientras que la ruta *absoluta* para acceder a este directorio será /home/usuario/Documentos/Genobiostoic/Terminal/Practica1. 
+>Trabajemos en base a esta figura el concepto de ruta absoluta y relativa. La ruta *relativa* para acceder, por ejemplo, al directorio "Practica1" desde el directorio "Genobiostoic", será /Terminal/Practica1, mientras que la ruta *absoluta* para acceder a este directorio será /home/usuario/Documentos/Genobiostoic/Terminal/Practica1.
+
 
 ## Descargar archivos
 
